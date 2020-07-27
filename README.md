@@ -1,16 +1,23 @@
-# crud_flutter
+# CRUD operations using Flutter and Firebase
 
-A new Flutter project.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+get all dependencies
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+pub get
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Demo
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### APK Link
+https://drive.google.com/file/d/1icXEBq_SDnCFJoMa_m080F2mlew_NC8Y/view?usp=sharing
+
+
+
+### Screenshots
+<img src="Demo/pic1.png" width="200" height="200">
+<img src="Demo/pic2.png" width="200" height="200">
+<img src="Demo/pic3.png" width="200" height="200">
+<img src="Demo/pic4.png" width="200" height="200">
